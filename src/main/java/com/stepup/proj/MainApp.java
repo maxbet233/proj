@@ -6,6 +6,11 @@ public class MainApp {
         System.out.println("Hello0!");
         System.out.println("Hello3222!");
         System.out.println("Hello3!");
-        System.out.println("Hello4!");
+        System.out.println("Hello world!");
+        doSomething();
+    }
+
+    public static void doSomething() {
+        System.out.println("Hi");
     }
 }
