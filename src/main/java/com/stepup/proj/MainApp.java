@@ -5,7 +5,6 @@ public class MainApp {
         System.out.println("Hello!");
         System.out.println("Hello0!");
         System.out.println("Hello3222!");
-        System.out.println("Hello3!");
-        System.out.println("Hello4!");
+        System.out.println("Hello___4!");
     }
 }
